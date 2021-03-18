@@ -20,3 +20,9 @@ h1 {
 a{
  font-size:30px;
 }
+
+video{
+    text-align: center;
+    margin:10px auto;
+    width: 70%;
+}
