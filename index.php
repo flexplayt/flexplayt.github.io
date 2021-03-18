@@ -14,7 +14,7 @@
 <body>
 
 
-
+<h1>Hola Mundo</h1>
 
     <script src='https://kit.fontawesome.com/2c36e9b7b1.js' crossorigin='anonymous'></script>
     <script src="../js/main.js"></script>
