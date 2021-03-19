@@ -33,7 +33,7 @@ body {
     background-color: #222;
     padding: 2px;
     border: none;
-    border-radius: 3px;
+    border-radius: 2.2px;
 }
 
 .tex {
@@ -62,11 +62,11 @@ body {
 }
 
 ::-webkit-scrollbar {
-    width: 15px;
+    width: 12px;
 }
 
 ::-webkit-scrollbar-thumb {
-    width: 7px;
+    width: 6px;
     background-color: #222;
 }
 
